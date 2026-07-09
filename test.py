@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Copyright© 2025 OpenSoftware-World
+""" Copyright© 2025-2026 OpenSoftware-World
 OllamaTaskSchedulerKit Tüm Hakları GPL(Genel Kamu Lisansı) altında korunmaktadır.
 OllamaTaskSchedulerKit All Rights Reserved under the GPL(General Public License).
 Bu Yazılımın Bir Kopyası GitHub da yayınlanmaktadır Görüntülemek için: https://github.com/OpenSoftware-World/OllamaTaskSchedulerKit
